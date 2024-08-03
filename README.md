@@ -16,6 +16,7 @@ The repository is organized as follows:
 
 - `notebooks/`: contains the jupyter notebooks used in the study
     - `topics_media`: characterize the five Spanish media outlets
+    - `Data-exploration`: explore data and perform sentiment analysis
 - `data`: contains the data
     - `Human-in-the-loop-topic-labeling`: topics with the entire process of labeling
      - `topics_media`: topics with distribution for each media outlet
