@@ -23,6 +23,7 @@ The repository is organized as follows:
     - `Human-in-the-loop-topic-labeling`: topics with the entire process of labeling
     - `topics_media`: topics with distribution for each media outlet
     - `humantag`: topics with human tag and category
+    - `keywords`: topics with keywords
 
 > [!NOTE]
 > The full dataset is not accessible.
