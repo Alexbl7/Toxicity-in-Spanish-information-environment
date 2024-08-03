@@ -18,6 +18,7 @@ The repository is organized as follows:
     - `topics_media`: characterize the five Spanish media outlets
     - `Data-exploration`: explore data and perform sentiment analysis
     - `topic_categories`: slassify topics into categories 
+    - `topic_modelling`: main notebooks with topic modelling
 - `data`: contains the data
     - `Human-in-the-loop-topic-labeling`: topics with the entire process of labeling
     - `topics_media`: topics with distribution for each media outlet
