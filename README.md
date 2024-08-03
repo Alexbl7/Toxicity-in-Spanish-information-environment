@@ -18,6 +18,7 @@ The repository is organized as follows:
     - `topics_media`: characterize the five Spanish media outlets
 - `data`: contains the data
     - `Human-in-the-loop-topic-labeling`: topics with the entire process of labeling
+     - `topics_media`: topics with distribution for each media outlet
 
 > [!NOTE]
 > The full dataset is not accessible.
