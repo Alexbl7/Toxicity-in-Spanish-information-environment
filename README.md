@@ -14,16 +14,18 @@
 ## Organization
 The repository is organized as follows:
 
-- `notebooks/`: contains the jupyter notebooks used in the study
-    - `topics_media`: characterize the five Spanish media outlets
-    - `Data-exploration`: explore data and perform sentiment analysis
-    - `topic_categories`: slassify topics into categories 
-    - `topic_modelling`: main notebooks with topic modelling
+- `notebooks/`: contains the jupyter notebooks used in the study.
+    - `topics_media`: characterize the five Spanish media outlets.
+    - `Data-exploration`: explore data and perform sentiment analysis.
+    - `topic_categories`: classify topics into categories .
+    - `topic_modelling`: main notebooks with topic modelling.
+    - `categories_analysis`: analyze hate, sentiments for each category.
 - `data`: contains the data
-    - `Human-in-the-loop-topic-labeling`: topics with the entire process of labeling
-    - `topics_media`: topics with distribution for each media outlet
-    - `humantag`: topics with human tag and category
-    - `keywords`: topics with keywords
+    - `Human-in-the-loop-topic-labeling`: topics with the entire process of labeling.
+    - `topics_media`: topics with distribution for each media outlet.
+    - `humantag`: topics with human tag and category.
+    - `keywords`: topics with keywords.
+    - `id_topics_categories_sentiment`: increase of the dataset and id with respect to the original dataset.
 
 > [!NOTE]
 > The full dataset is not accessible.
