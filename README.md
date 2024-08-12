@@ -31,4 +31,9 @@ The repository is organized as follows:
 > The full dataset is not accessible.
 
 ## License
-[MIT](https://choosealicense.com/licenses/mit/)
+This project is licensed under the [MIT](https://choosealicense.com/licenses/mit/) License.
+
+## Acknowledgements
+This work has been partially funded by the strategic project CDL-TALENTUM from the Spanish National Institute of Cybersecurity (INCIBE) and the Recovery, Transformation, and Resilience Plan, Next Generation EU, and the University of Murcia by FPU contract.
+
+We thank the Hatemedia project (PID2020-114584GB-I00), financed by MCIN/AEI/10.13039/501100011033, for providing the dataset used in this work.
